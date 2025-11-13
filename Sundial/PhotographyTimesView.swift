@@ -123,6 +123,10 @@ struct PhotographyTimesView: View {
                 .font(.caption)
                 .foregroundStyle(.secondary)
                 .padding(.top, 4)
+            
+            // TODO: Add Live Activity button here
+            // Button to start a Live Activity for this photography time
+            // See LIVE_ACTIVITIES.md for implementation details
         }
         .padding()
         .background(
